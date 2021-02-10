@@ -37,7 +37,7 @@ Content in the first column | Content in the second column
 
 ## VHDL source code
 
-```
+```vhdl
 entity gates is
     port(
         a_i    : in  std_logic;         -- Data input
@@ -47,4 +47,4 @@ entity gates is
         fxor_o : out std_logic          -- XOR output function
     );
 end entity gates;
-``` vhdl
+```
