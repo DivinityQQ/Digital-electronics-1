@@ -14,9 +14,10 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 1. First ordered list item
 2. Another item
-  * Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-  1. Ordered sub-list
+  * Unordered sub-list.  
+  * Another item.  
+3. Actual numbers don't matter, just that it's a number
+  1. Ordered sub-list  
 4. And another item.
 
 ## Links
@@ -33,3 +34,17 @@ First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
+
+## VHDL source code
+
+```
+entity gates is
+    port(
+        a_i    : in  std_logic;         -- Data input
+        b_i    : in  std_logic;         -- Data input
+        for_o  : out std_logic;         -- OR output function
+        fand_o : out std_logic;         -- AND output function
+        fxor_o : out std_logic          -- XOR output function
+    );
+end entity gates;
+```vhdl
