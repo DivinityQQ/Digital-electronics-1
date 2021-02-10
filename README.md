@@ -47,4 +47,4 @@ entity gates is
         fxor_o : out std_logic          -- XOR output function
     );
 end entity gates;
-```vhdl
+``` vhdl
