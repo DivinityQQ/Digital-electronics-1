@@ -1,5 +1,9 @@
 # 01-gates
 
+## Link to my GitHub
+
+https://github.com/DivinityQQ/Digital-electronics-1
+
 ## Verification of De Morgan's laws
 
 ### Equations
