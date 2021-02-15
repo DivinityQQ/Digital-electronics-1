@@ -41,6 +41,10 @@ https://www.edaplayground.com/x/V958
 
 ## Verification of Distributive laws
 
+### Equations
+
+![Distributives](Images/distributives.png)
+
 ### Implementation in VHDL
 
 ```vhdl
