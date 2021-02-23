@@ -149,7 +149,7 @@ end process p_stimulus;
 
 ### Simulator console dump
 
-![Console_dump](Images/dump.png)
+![Console_dump](Images/dump.PNG)
 
 ### EDA Playground link
 
