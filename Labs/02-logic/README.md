@@ -62,7 +62,7 @@ https://www.edaplayground.com/x/BHFL
 architecture Behavioral of comparator_2bit is
 begin
 
-	B_greater_A_o   <= '1' when (b_i > a_i) else '0';
+    B_greater_A_o   <= '1' when (b_i > a_i) else '0';
     B_equals_A_o    <= '1' when (b_i = a_i) else '0';
     B_less_A_o      <= '1' when (b_i < a_i) else '0';
     
