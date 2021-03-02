@@ -79,7 +79,7 @@ end process p_stimulus;
 ## A Vivado tutorial
 
 1. Create project
-![New_project](new_project.png)
+![New_project](Images/new_project.png)
 
 2. Click next
 ![Next](Images/next.png)
@@ -106,6 +106,7 @@ end process p_stimulus;
 ![Module](Images/module.png)
 
 10. File -> Add Sources... or Alt+A
+
 ![Add](Images/add.png)
 
 11. Select testbench, create file and name your file tb_yourtb
