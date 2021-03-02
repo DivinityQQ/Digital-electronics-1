@@ -79,6 +79,7 @@ end process p_stimulus;
 ## A Vivado tutorial
 
 1. Create project
+
 ![New_project](Images/new_project.png)
 
 2. Click next
