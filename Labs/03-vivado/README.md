@@ -74,7 +74,7 @@ end process p_stimulus;
 
 ### Screenshot with simulated time waveforms
 
-![Waveforms](waveforms.png)
+![Waveforms](Images/waveforms.png)
 
 ## A Vivado tutorial
 
@@ -82,34 +82,34 @@ end process p_stimulus;
 ![New_project](new_project.png)
 
 2. Click next
-![Next](next.png)
+![Next](Images/next.png)
 
 3. Name your project
-![Name](name.png)
+![Name](Images/name.png)
 
 4. Select project tzpe as RTL Project
-![Type](type.png)
+![Type](Images/type.png)
 
 5. Add sources
-![Source](source.png)
+![Source](Images/source.png)
 
 6. Add or create constraint files (optional)
-![Constraints](constraints.png)
+![Constraints](Images/constraints.png)
 
 7. Select your board
-![Board](boards.png)
+![Board](Images/boards.png)
 
 8. Review the summary and click next
-![Summary](summary.png)
+![Summary](Images/summary.png)
 
 9. No need to change anything in define module popup, just click next
-![Module](module.png)
+![Module](Images/module.png)
 
 10. File -> Add Sources... or Alt+A
-![Add](add.png)
+![Add](Images/add.png)
 
 11. Select testbench, create file and name your file tb_yourtb
-![TB](tb.png)
+![TB](Images/tb.png)
 
 12. Run simulation
-![Simulation](sim.png)
+![Simulation](Images/sim.png)
