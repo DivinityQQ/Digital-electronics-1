@@ -1,4 +1,4 @@
-# 05-display_driver
+# 06-display_driver
 
 ## Link to my GitHub
 
