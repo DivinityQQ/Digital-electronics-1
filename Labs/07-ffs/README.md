@@ -154,7 +154,7 @@ p_d_ff_arst : process (clk, arst)
            q_bar <= not d;                           
        end if;                                       
     end process p_d_ff_arst;
-```vhdl
+```
 
 ```vhdl
 p_d_ff_arst : process (clk)                    
