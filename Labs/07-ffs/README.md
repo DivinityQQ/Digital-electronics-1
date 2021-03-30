@@ -504,3 +504,7 @@ end process p_stimulus;
 ![jk_ff_rst_waveforms](Images/jk_ff_rst_waveforms.png)
 
 ![t_ff_rst_waveforms](Images/t_ff_rst_waveforms.png)
+
+## Shift register
+
+![scheme](Images/scheme.png)
